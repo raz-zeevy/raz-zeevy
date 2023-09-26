@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/62799232?s=400&u=d067c237f2a4cffe51eaf7ea36cd2bf714fd2fa5&v=4" alt="Raz Zeevy" align="center" style="width: 15%" />
-</div>
-
 ### <div align="center">Hi there! I'm Raz 🚀</div>
 
 <p align="center">
