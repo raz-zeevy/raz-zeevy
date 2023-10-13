@@ -44,7 +44,7 @@ I'm Raz, and I'm enthusiastic about all things data and technology. I love to le
 
 
 #### Projects
-- 📡 [perovskite-miner](https://github.com/raz-zeevy/perovskite-miner): 
+- 📡 [perovskite-miner](https://github.com/raz-zeevy/perovskite-miner):  An AI-powered tool designed to extract data from Perovskite research papers and populate the Perovskite Database. To accelerate scientific advancements in Perovskite solar cell research
 - 🚀 [CLIP prefix caption](https://github.com/raz-zeevy/CLIP_prefix_caption): Project in the lab of Prof. Omri Abend (HUJI) on compositional generalization in image captioning
 - 🌟 [Genlingo](https://github.com/raz-zeevy/Genlingo): The ultimate language learning tool for creating Anki flashcards with example sentences, images, and sounds
 - 🎉 [mirPredict](https://github.com/raz-zeevy/mirPredict): MirPredict is a tool that targets mapping micro RNA into their corresponding RNA by using the two biggest engines: 'DianaDB' and 'MirDB'.
