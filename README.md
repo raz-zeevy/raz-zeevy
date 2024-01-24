@@ -20,7 +20,7 @@
 
 #### About Me
 
-I'm Raz, and I'm enthusiastic about all things data and technology. I love to learn, explore, and collaborate on exciting projects. 
+I'm Raz, and I'm enthusiastic about all things software data and technology. I love to learn, explore, and collaborate on exciting projects. 
 
 #### My Skills
 
