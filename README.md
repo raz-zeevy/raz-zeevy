@@ -24,7 +24,7 @@ I'm Raz, and I'm enthusiastic about all things software data and technology. I l
 
 #### My Skills
 
-- **Languages/Tools**: Python, Java, C, Flask, HTML, CSS, JavaScript
+- **Languages/Tools**: Python, Java, C, FastAPI, Flask, JavaScript, React
 - **Machine Learning**: Scikit-learn, PyTorch
 - **Databases**: PostgreSQL, SQL
 - **Operating Systems**: Windows, Ubuntu
