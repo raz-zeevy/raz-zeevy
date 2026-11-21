@@ -52,6 +52,6 @@ Feel free to connect with me on LinkedIn or drop me an email at raz3zeevy@gmail.
   </picture>
 </a>
 
-<sub>P.S. This is my street, drawn in code. It is daytime if you browse in light mode and night if you browse in dark mode. <a href="https://raz-zeevy.github.io/house-drawing/">The live one</a> follows the real sunset, the wind follows your mouse, and the beagle does whatever he wants.</sub>
+<sub>P.S. this is my street, drawn in js. <a href="https://raz-zeevy.github.io/house-drawing/">The live one</a> follows the real sunset, the wind follows your mouse, and the beagle does whatever he wants.</sub>
 
 </div>
