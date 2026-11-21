@@ -25,7 +25,9 @@ I'm Raz, and I'm enthusiastic about all things software data and technology. I l
 #### Toolbox
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,c,cpp,swift,pytorch,sklearn,opencv,react,fastapi,flask,postgres,git,githubactions,linux,bash&perline=9" alt="Python, TypeScript, JavaScript, Java, C, C++, Swift, PyTorch, scikit-learn, OpenCV, React, FastAPI, Flask, PostgreSQL, Git, GitHub Actions, Linux, Bash">
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,c,cpp,flutter,pytorch,sklearn,opencv,react,fastapi,flask,postgres,git,githubactions,linux,bash&perline=9" alt="Python, TypeScript, JavaScript, Java, C, C++, Flutter, PyTorch, scikit-learn, OpenCV, React, FastAPI, Flask, PostgreSQL, Git, GitHub Actions, Linux, Bash">
+<br>
+<img src="assets/claude.svg" height="48" alt="Claude Code">&nbsp;<img src="assets/cursor.svg" height="48" alt="Cursor">
 </div>
 
 #### Things I've built
