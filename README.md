@@ -40,3 +40,18 @@ I'm Raz, and I'm enthusiastic about all things software data and technology. I l
 #### Let's Connect
 
 Feel free to connect with me on LinkedIn or drop me an email at raz3zeevy@gmail.com. Let's chat, collaborate, and learn together! 😄
+
+<br>
+
+<div align="center">
+
+<a href="https://raz-zeevy.github.io/house-drawing/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/house-night.gif">
+    <img src="assets/house-day.gif" width="100%" alt="Animated ink drawing of a house behind trees. A beagle walks along the pavement and a white cat sits on the wall.">
+  </picture>
+</a>
+
+<sub>P.S. This is my street, drawn in code. It is daytime if you browse in light mode and night if you browse in dark mode. <a href="https://raz-zeevy.github.io/house-drawing/">The live one</a> follows the real sunset, the wind follows your mouse, and the beagle does whatever he wants.</sub>
+
+</div>
