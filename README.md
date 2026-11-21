@@ -22,33 +22,20 @@
 
 I'm Raz, and I'm enthusiastic about all things software data and technology. I love to learn, explore, and collaborate on exciting projects. 
 
-#### My Skills
+#### Toolbox
 
-- **Languages/Tools**: Python, Java, C, FastAPI, Flask, JavaScript, React
-- **Machine Learning**: Scikit-learn, PyTorch
-- **Databases**: PostgreSQL, SQL
-- **Operating Systems**: Windows, Ubuntu
-- **Other Tools**: Jupyter Notebook, Git
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" />  
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,c,cpp,swift,pytorch,sklearn,opencv,react,fastapi,flask,postgres,git,githubactions,linux,bash&perline=9" alt="Python, TypeScript, JavaScript, Java, C, C++, Swift, PyTorch, scikit-learn, OpenCV, React, FastAPI, Flask, PostgreSQL, Git, GitHub Actions, Linux, Bash">
 </div>
 
+#### Things I've built
 
-#### Projects
-- 📊 [FSSA Program](https://raz-zeevy.github.io/fssa/): A robust framework for statistical data analysis and visualization. Check out the [FSSA Website](https://raz-zeevy.github.io/fssa/).
-- 📡 [perovskite-miner](https://github.com/raz-zeevy/perovskite-miner):  An AI-powered tool designed to extract data from Perovskite research papers and populate the Perovskite Database. To accelerate scientific advancements in Perovskite solar cell research
-- 🚀 [CLIP prefix caption](https://github.com/raz-zeevy/CLIP_prefix_caption): Project in the lab of Prof. Omri Abend (HUJI) on compositional generalization in image captioning
-- 🌟 [Genlingo](https://github.com/raz-zeevy/Genlingo): The ultimate language learning tool for creating Anki flashcards with example sentences, images, and sounds
-- 🎉 [mirPredict](https://github.com/raz-zeevy/mirPredict): MirPredict is a tool that targets mapping micro RNA into their corresponding RNA by using the two biggest engines: 'DianaDB' and 'MirDB'.
+- 🏠 **[house-drawing](https://github.com/raz-zeevy/house-drawing)**: an animated ink street in TypeScript and SVG with a real sunrise and sunset, wind you can steer, and a beagle and a white cat with routines of their own. [Go and click things.](https://raz-zeevy.github.io/house-drawing/)
+- 📊 **[FSSA](https://github.com/raz-zeevy/fssa)**: a desktop app that lets researchers run Faceted Smallest Space Analysis without touching a command line. It ships with a Windows installer and [its own website](https://raz-zeevy.github.io/fssa/).
+- 🧮 **[POSAC](https://github.com/raz-zeevy/posac)**: its sibling for Partial Order Scalogram Analysis, a Python GUI wrapped around a Fortran number-cruncher.
+- ⛏️ **[perovskite-miner](https://github.com/raz-zeevy/perovskite-miner)**: an LLM pipeline that reads solar-cell papers and fills in about 70 database fields per paper, so researchers don't have to.
+- 🗣️ **[Genlingo](https://github.com/raz-zeevy/Genlingo)**: feeds the human-language habit. It turns a word list into Anki flashcards with example sentences, pictures and audio.
+- 🖼️ **[CLIP prefix caption](https://github.com/raz-zeevy/CLIP_prefix_caption)**: research in Prof. Omri Abend's NLP lab at HUJI. Can a captioning model describe word combinations it has never seen together?
 
 #### Let's Connect
 
