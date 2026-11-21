@@ -32,7 +32,7 @@ I'm Raz, and I'm enthusiastic about all things software data and technology. I l
 
 #### Things I've built
 
-- 🏠 **[house-drawing](https://github.com/raz-zeevy/house-drawing)**: an animated ink street in TypeScript and SVG with a real sunrise and sunset, wind you can steer, and a beagle and a white cat with routines of their own. [Go and click things.](https://raz-zeevy.github.io/house-drawing/)
+- 🏠 **[house-drawing](https://github.com/raz-zeevy/house-drawing)**: an animated ink street in TypeScript and SVG with a real sunrise and sunset, wind you can steer, and a beagle and a white cat with routines of their own. [Go and click things.](https://raz-zeevy.github.io/house-drawing/prototypes/houses.html)
 - 📊 **[FSSA](https://github.com/raz-zeevy/fssa)**: a desktop app that lets researchers run Faceted Smallest Space Analysis without touching a command line. It ships with a Windows installer and [its own website](https://raz-zeevy.github.io/fssa/).
 - 🧮 **[POSAC](https://github.com/raz-zeevy/posac)**: its sibling for Partial Order Scalogram Analysis, a Python GUI wrapped around a Fortran number-cruncher.
 - ⛏️ **[perovskite-miner](https://github.com/raz-zeevy/perovskite-miner)**: an LLM pipeline that reads solar-cell papers and fills in about 70 database fields per paper, so researchers don't have to.
@@ -47,13 +47,13 @@ Feel free to connect with me on LinkedIn or drop me an email at raz3zeevy@gmail.
 
 <div align="center">
 
-<a href="https://raz-zeevy.github.io/house-drawing/">
+<a href="https://raz-zeevy.github.io/house-drawing/prototypes/houses.html">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/house-night.gif">
     <img src="assets/house-day.gif" width="100%" alt="Animated ink drawing of a house behind trees. A beagle walks along the pavement and a white cat sits on the wall.">
   </picture>
 </a>
 
-<sub>P.S. this is my street, drawn in js. <a href="https://raz-zeevy.github.io/house-drawing/">The live one</a> follows the real sunset, the wind follows your mouse, and the beagle does whatever he wants.</sub>
+<sub>P.S. this is my street, drawn in js. <a href="https://raz-zeevy.github.io/house-drawing/prototypes/houses.html">The live one</a> follows the real sunset, the wind follows your mouse, and the beagle does whatever he wants.</sub>
 
 </div>
